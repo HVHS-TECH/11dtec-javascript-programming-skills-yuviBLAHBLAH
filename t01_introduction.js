@@ -1,4 +1,21 @@
+/****************************
+Name of task: Intro to JavaScript
+Person who wrote it: Yuvi
+Date written: 29/04/2025
+Purpose: Introduction to JavaScript and how it works
+****************************/
+console.log("adarsh has a big head");
+
+//Variables
+
+
+/****************************
+Main code
+****************************/
 
 
 
-console.log("Running t01_introduction.js");
+
+/****************************
+Functions
+****************************/
