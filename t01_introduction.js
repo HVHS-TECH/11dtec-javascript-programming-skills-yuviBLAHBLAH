@@ -4,7 +4,7 @@ Person who wrote it: Yuvi
 Date written: 29/04/2025
 Purpose: Introduction to JavaScript and how it works
 ****************************/
-console.log("adarsh has a big head");
+console.log("Adarsh has a big head");
 
 //Variables
 
