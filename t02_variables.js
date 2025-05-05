@@ -11,39 +11,15 @@ console.log("Running t02_variables.js");
 
 console.log("pocketMoney");
 let pocketMoney = 10
-var Year = 2025;
-console.log (Year);
 
-var Born = 2009;
+/****************************
+Main code
+****************************/
 
-var Age = 15;
-console.log (Age);
-
-var Num1 = 10;
-
-var Num2 = 2;
-
-var answer;
+console.log("pocketMoney");
+console.log("You have",pocketMoney,"dollars");
 
 
-  
-  console.log("Hello brooo");
-  console.log("As of", Year, "You are", Age);
-  console.log("You were born in", Born)
-  answer = Age + Num1;
-  console.log("In 10 years you will be", answer, "year old")
-  console.log("You have", pocketMoney,"dollars");
-  answer = pocketMoney/Num2
-  console.log("Half of your money is",answer )
- 
- 
- /****************************
-  Main code 
- ****************************/
- 
- 
- 
- 
- /****************************
-  Functions
- ****************************/
+/****************************
+Functions
+****************************/
