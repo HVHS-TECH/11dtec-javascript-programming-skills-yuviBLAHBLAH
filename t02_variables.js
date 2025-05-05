@@ -10,12 +10,12 @@ console.log("Running t02_variables.js");
 //Variables
 
 console.log("pocketMoney");
+let pocketMoney = 10000000000000000000000000000000000000000
 
 /****************************
 Main code
 ****************************/
 
-let pocketMoney = 10000000000000000000000000000000000000000
 console.log("pocketMoney");
 console.log("You have",pocketMoney,"dollars");
 
