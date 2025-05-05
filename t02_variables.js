@@ -10,7 +10,7 @@ console.log("Running t02_variables.js");
 //Variables
 
 console.log("pocketMoney");
-let pocketMoney = 10000000000000000000000000000000000000000
+let pocketMoney = 10
 var Year = 2025;
 console.log (Year);
 
