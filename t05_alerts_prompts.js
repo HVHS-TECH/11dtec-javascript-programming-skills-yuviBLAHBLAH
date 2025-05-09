@@ -11,8 +11,9 @@ console.log("hello zlunc");
 /****************************
 Main code
 ****************************/
-prompt( "welcome to my first java script program!\nplease enter your name");
-prompt( 'please enter your age', 15);
+prompt( "HELLO BROOOO!\nEnter your name😎🆒");
+prompt( 'hold old are you😍❤️', 15);
+prompt( 'how much money you got fool🤑💵🫰', 10);
 
 
 
