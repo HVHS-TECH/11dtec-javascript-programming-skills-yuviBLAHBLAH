@@ -11,6 +11,8 @@ console.log("hello zlunc 3");
 /****************************
 Main code
 ****************************/
+
+
 if (age < 14){
     console.log(YOU TOO YOUNG WHAT THE HELL😨😨🤬🤬🤬😡😡)
 }
