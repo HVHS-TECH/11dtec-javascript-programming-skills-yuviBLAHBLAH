@@ -11,8 +11,7 @@ console.log("hello zlunc");
 /****************************
 Main code
 ****************************/
-alert("welcome to my first java script program");
-prompt( "please enter your name" + userName);
+prompt( "welcome to my first java script program!\nplease enter your name");
 
 
 
