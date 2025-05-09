@@ -11,14 +11,14 @@ console.log("hello zlunc 3");
 /****************************
 Main code
 ****************************/
-if (age < 5){
+if (age < 14){
     console.log(YOU TOO YOUNG WHAT THE HELL😨😨🤬🤬🤬😡😡)
 }
-if (age > 15){
+if (age > 16){
     console.log(what in the unc is this🤣🤣🤣💀💀)
 }
-if (age > 13){
-    console.log(thats just right 💘💝💝😍😍😍😍😘😘)
+if (age == 15){
+    console.log(thats just right 💘)
 }
 /****************************
 Functions
