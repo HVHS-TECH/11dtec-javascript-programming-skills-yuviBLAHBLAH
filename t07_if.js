@@ -15,7 +15,7 @@ alert("hello bro");
 alert("i know you were born in 2009");
 
 if (age < 14){
-    console.log(YOU TOO YOUNG WHAT THE HELL😨😨🤬🤬🤬😡😡)
+    console.log(so yung what 😨😨🤬🤬🤬😡😡)
 }
 if (age > 16){
     console.log(what in the unc is this🤣🤣🤣💀💀)
