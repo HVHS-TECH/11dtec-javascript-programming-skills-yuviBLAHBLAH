@@ -11,7 +11,8 @@ console.log("hello zlunc 3");
 /****************************
 Main code
 ****************************/
-
+alert("hello bro");
+alert("i know you were born in 2009👅👅");
 
 if (age < 14){
     console.log(YOU TOO YOUNG WHAT THE HELL😨😨🤬🤬🤬😡😡)
