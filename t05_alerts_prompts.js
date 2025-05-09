@@ -12,6 +12,7 @@ console.log("hello zlunc");
 Main code
 ****************************/
 prompt( "welcome to my first java script program!\nplease enter your name");
+prompt( 'please enter your age');
 
 
 
