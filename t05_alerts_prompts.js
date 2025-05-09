@@ -12,7 +12,7 @@ console.log("hello zlunc");
 Main code
 ****************************/
 alert("welcome to my first java script program");
-prompt( 'what is your name?' );
+prompt( "please enter your name" + userName);
 
 
 
