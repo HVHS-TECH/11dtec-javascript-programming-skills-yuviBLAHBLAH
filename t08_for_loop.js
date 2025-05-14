@@ -11,7 +11,8 @@ console.log("hello zlunc 4💖💖🥰🥰😍😻😻😻💘💝💝");
 /****************************
 Main code
 ****************************/
-console.log("")
+console.log("Starting Loop");
+for count
 
 /****************************
 Functions
