@@ -12,8 +12,10 @@ console.log("hello zlunc 4💖💖🥰🥰😍😻😻😻💘💝💝");
 Main code
 ****************************/
 console.log("Starting Loop");
-for (count = 0; count
-
+for (count = 0; count <10; count ++) {
+console.log("current count: " + count);
+}
+console.log("loop stopped‼️‼️‼️❕❕❕")
 /****************************
 Functions
 ****************************/
