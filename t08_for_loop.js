@@ -12,7 +12,7 @@ console.log("hello zlunc 4💖💖🥰🥰😍😻😻😻💘💝💝");
 Main code
 ****************************/
 console.log("Starting Loop");
-for count
+for (count = 0; count
 
 /****************************
 Functions
