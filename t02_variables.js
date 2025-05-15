@@ -14,7 +14,7 @@ Main code
 ****************************/
 console.log("Hi yuvi");
 console.log("As of 6/05/2015 you are 15");
-console.log("You have",pocketMoney,"dollars");
+console.log("You have", pocketMoney, "dollars");
 console.log("The year is 2025");
 
 

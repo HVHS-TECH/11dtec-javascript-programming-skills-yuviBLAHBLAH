@@ -13,7 +13,7 @@ Main code
 ****************************/
 let classArray = ["Yuvi❤️❤️❤️❤️", "Yuvi jr🤑🤑💵💵", "Yuvi jr jr🤣🤣😂😂", "Yuvi jr jr jr💀💀👲🏻👲🏻", "Yuvi jr jr jr jr🤩🤩🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔"];
 let choice = prompt("pick a number between 0 and 4 zlunc👌👌👌👌");
-alert("person "+choice+" is "+classArray[choice]);
+alert("person " + choice + " is " + classArray[choice]);
 
 
 /****************************

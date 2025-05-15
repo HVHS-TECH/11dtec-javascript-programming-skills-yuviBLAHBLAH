@@ -11,9 +11,9 @@ console.log("hello zlunc");
 /****************************
 Main code
 ****************************/
-prompt( "HELLO BROOOO!\nEnter your name😎🆒");
-prompt( 'hold old are you😍❤️', 15);
-prompt( 'how much money you got fool🤑💵🫰', 10);
+prompt("HELLO BROOOO!\nEnter your name😎🆒");
+prompt('hold old are you😍❤️', 15);
+prompt('how much money you got fool🤑💵🫰', 10);
 
 
 

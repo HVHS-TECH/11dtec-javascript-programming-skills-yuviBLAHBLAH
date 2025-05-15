@@ -4,7 +4,7 @@ Person who wrote it: Yuvi
 Date written: 29/04/2025
 Purpose: Introduction to JavaScript and how it works
 ****************************/
-console.log("hello zlunc 4💖💖🥰🥰😍😻😻😻💘💝💝");
+console.log("hello zlunc 4🥰🥰");
 
 //Variables
 
@@ -12,10 +12,10 @@ console.log("hello zlunc 4💖💖🥰🥰😍😻😻😻💘💝💝");
 Main code
 ****************************/
 console.log("Starting Loop");
-for (count = 0; count <10; count ++) {
-console.log("current count: " + count);
+for (count = 0; count < 10; count++) {
+    console.log("current count: " + count);
 }
-console.log("loop stopped‼️‼️‼️❕❕❕")
+console.log("loop stopped‼️‼️‼️")
 /****************************
 Functions
 ****************************/

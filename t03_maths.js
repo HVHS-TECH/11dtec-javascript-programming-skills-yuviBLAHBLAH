@@ -11,12 +11,12 @@ console.log("Adarsh has a big head");
 console.log("pocketMoney");
 let pocketMoney = 10
 var Year = 2025;
-console.log (Year);
+console.log(Year);
 
 var Born = 2009;
 
 var Age = 15;
-console.log (Age);
+console.log(Age);
 
 var Num1 = 10;
 
@@ -25,16 +25,16 @@ var Num2 = 2;
 var answer;
 
 
-  
-  console.log("Hello brooo");
-  console.log("As of", Year, "You are", Age);
-  console.log("You were born in", Born)
-  answer = Age + Num1;
-  console.log("In 10 years you will be", answer, "year old")
-  console.log("You have", pocketMoney,"dollars");
-  answer = pocketMoney/Num2
-  console.log("Half of your money is",answer )
- 
+
+console.log("Hello brooo");
+console.log("As of", Year, "You are", Age);
+console.log("You were born in", Born)
+answer = Age + Num1;
+console.log("In 10 years you will be", answer, "year old")
+console.log("You have", pocketMoney, "dollars");
+answer = pocketMoney / Num2
+console.log("Half of your money is", answer)
+
 /****************************
 Main code
 ****************************/
