@@ -4,20 +4,14 @@ Person who wrote it: Yuvi
 Date written: 29/04/2025
 Purpose: Introduction to JavaScript and how it works
 ****************************/
-console.log("hello zlunc 4🥰🥰");
+console.log("hello zlunc 5    ☆*: .｡. o(≧▽≦)o .｡.:*☆   ");
 
 //Variables
-var answer;
+
 /****************************
 Main code
 ****************************/
-console.log("Loop stopped!");
- for (count=0;count<5;count++){
-  var nums =  prompt ("Pick a number")
-  nums = Number(nums)
- }
- answer = nums+nums+nums+nums+nums;
- console.log(answer)
+
 /****************************
 Functions
 ****************************/
