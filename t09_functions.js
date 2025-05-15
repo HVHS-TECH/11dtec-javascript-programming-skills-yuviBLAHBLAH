@@ -29,17 +29,17 @@ getUserName();
 
 function askUserAge() {
     userAge = prompt("How old are you?");
-    alert("Welcome " + userAge + "year old");
+    alert("Welcome " + userAge + " year old");
 };
 askUserAge();
 
 function askUserMoney() {
     var userMoney = prompt("How much money do you have?")
     if (userMoney < 4) {
-        alert("Your too broke to buy chocolate");
+        alert("Your too broke to buy chocolate😒🤣🤣🤣🤣🤣😒😒😒😒");
     };
     if (userMoney >= 4) {
-        alert("You can buy chocolate");
+        alert("You can buy chocolatea😘😘😘💕💕👍👍😁😁😁");
     };
 };
 askUserMoney();
