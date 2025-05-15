@@ -15,4 +15,6 @@ Main code
 /****************************
 Functions
 ****************************/
-funtion getFaColour()
+function getFaColour() {
+
+}
