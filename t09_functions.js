@@ -15,3 +15,4 @@ Main code
 /****************************
 Functions
 ****************************/
+funtion getFaColour
