@@ -16,5 +16,5 @@ Main code
 Functions
 ****************************/
 function getFaColour() {
-
+userFavColour = prompt
 }
