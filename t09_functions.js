@@ -16,5 +16,6 @@ Main code
 Functions
 ****************************/
 function getFaColour() {
-userFavColour = prompt
+    userFavColour = prompt("What is your fav colour?")
+    alert("Your fav color is" + userFavColour)
 }
