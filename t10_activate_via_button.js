@@ -7,7 +7,10 @@ Purpose: Introduction to JavaScript and how it works
 console.log("hello zlunc 6    👈(ﾟヮﾟ👈)   ");
 
 //Variables
-
+let getMeColor;
+let getuserName;
+let abcdef;
+let ageidk;
 /****************************
 Main code
 ****************************/
@@ -15,6 +18,13 @@ Main code
 /****************************
 Functions
 ****************************/
+function start() {
+getMeColor = getFavColor()
+getuserName = getUserName()
+ageidk = askUserAge()
+abcdef = askUserMoney()
+}
+
 function getFavColor() {
     userFavColor = prompt("What is your favourite color?");
     alert("Your favourite color is: " + userFavColor);
