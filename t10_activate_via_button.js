@@ -29,19 +29,19 @@ function getFavColor() {
     userFavColor = prompt("What is your favourite color?");
     alert("Your favourite color is: " + userFavColor);
 };
-getFavColor();
+
 
 function getUserName() {
     userabcdefghijlkmnopqrstuvwxyz = prompt("What's your name?")
     alert("Welcome " + userabcdefghijlkmnopqrstuvwxyz);
 };
-getUserName();
+
 
 function askUserAge() {
     userAge = prompt("How old are you?");
     alert("Welcome " + userAge + " year old👋🙋‍♂️🙋‍♂️🙋‍♂️");
 };
-askUserAge();
+
 
 function askUserMoney() {
     var userMoney = prompt("How much money do you have?")
@@ -52,4 +52,3 @@ function askUserMoney() {
         alert("You can buy chocolatea😘😘😘💕💕👍👍😁😁😁");
     };
 };
-askUserMoney();
