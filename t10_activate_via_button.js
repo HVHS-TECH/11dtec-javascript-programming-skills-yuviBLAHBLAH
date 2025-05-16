@@ -8,7 +8,7 @@ console.log("hello zlunc 6    👈(ﾟヮﾟ👈)   ");
 
 //Variables
 let getMeColor;
-let getuserName;
+let getuserName; 
 let abcdef;
 let ageidk;
 /****************************
