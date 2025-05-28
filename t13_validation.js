@@ -6,7 +6,7 @@ Purpose: Introduction to JavaScript and how it works
 ****************************/
 console.log("hello zlunc 7 （￣︶￣）↗　");
 
-//Variables
+//Variables 
 let getMeColor;
 let getuserName; 
 let abcdef;
