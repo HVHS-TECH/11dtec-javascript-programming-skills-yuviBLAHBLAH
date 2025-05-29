@@ -1,14 +1,8 @@
-/****************************
-Name of task: Intro to JavaScript
-Person who wrote it: Yuvi
-Date written: 29/04/2025
-Purpose: Introduction to JavaScript and how it works
-****************************/
 console.log("hello zlunc 7 （￣︶￣）↗　");
 
 //Variables 
 let getMeColor;
-let getuserName; 
+let getuserName;
 let abcdef;
 let ageidk;
 /****************************
@@ -19,10 +13,10 @@ Main code
 Functions
 ****************************/
 function start() {
-getMeColor = getFavColor()
-getuserName = getUserName()
-ageidk = askUserAge()
-abcdef = askUserMoney()
+    getMeColor = getFavColor()
+    getuserName = getUserName()
+    ageidk = askUserAge()
+    abcdef = askUserMoney()
 }
 
 function getFavColor() {
@@ -32,8 +26,11 @@ function getFavColor() {
 
 
 function getUserName() {
-    userabcdefghijlkmnopqrstuvwxyz = prompt("What's your name?")
-    alert("Welcome " + userabcdefghijlkmnopqrstuvwxyz);
+    userName = prompt("What's your name?")
+    alert("Welcome " + userName);
+    if (!isNaN(userName) userName == null  userName == ""  userName == " ") {
+        userName = prompt("bruh enter a name...");
+    }
 };
 
 
