@@ -29,7 +29,7 @@ function getUserName() {
     userName = prompt("What's your name?")
     alert("Welcome " + userName);
     if (!isNaN(userName) userName == null  userName == ""  userName == " ") {
-        userName = prompt("bruh enter a name...");
+        userName = prompt("bruh enter a valid age");
     }
 };
 
