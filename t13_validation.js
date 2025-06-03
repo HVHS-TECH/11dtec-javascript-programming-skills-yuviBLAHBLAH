@@ -1,4 +1,4 @@
-console.log("hello zlunc 7 （￣︶￣）↗　");
+console.log("i hate ts");
 
 //Variables 
 let getMeColor;
