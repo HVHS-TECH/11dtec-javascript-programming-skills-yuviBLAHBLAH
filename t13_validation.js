@@ -3,8 +3,8 @@ console.log("hello zlunc 7 （￣︶￣）↗　");
 //Variables 
 let getMeColor;
 let getuserName;
-let abcdef;
-let ageidk;
+let bands;
+let age;
 /****************************
 Main code
 ****************************/
@@ -15,8 +15,8 @@ Functions
 function start() {
     getMeColor = getFavColor()
     getuserName = getUserName()
-    ageidk = askUserAge()
-    abcdef = askUserMoney()
+    age = askUserAge()
+    bands = askUserMoney()
 }
 
 function getFavColor() {
