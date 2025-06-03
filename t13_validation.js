@@ -2,7 +2,7 @@ console.log("i hate ts");
 
 //Variables 
 let getMeColor;
-let getuserName;
+let userName;
 let bands;
 let age;
 /****************************
@@ -14,7 +14,7 @@ Functions
 ****************************/
 function start() {
     getMeColor = getFavColor()
-    getuserName = getUserName()
+    userName = getUserName()
     age = askUserAge()
     bands = askUserMoney()
 }
