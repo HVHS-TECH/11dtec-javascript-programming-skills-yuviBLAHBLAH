@@ -37,6 +37,9 @@ function getUserName() {
 function askUserAge() {
     userAge = prompt("How old are you?");
     alert("Welcome " + userAge + " year old👋🙋‍♂️🙋‍♂️🙋‍♂️");
+    while (!isNaN(userName) || userName == null || userName == "" || userName == " ") {
+        userName = prompt("bruh enter a valid age");                              
+    }    
 };
 
 
