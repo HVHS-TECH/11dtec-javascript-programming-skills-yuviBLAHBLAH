@@ -29,7 +29,7 @@ function getUserName() {
     userName = prompt("What's your name?")
     alert("Welcome " + userName);
     while (!isNaN(userName) || userName == null || userName == "" || userName == " ") {
-        userName = prompt("bruh enter a valid age");                              
+        userName = prompt("bruh enter a valid name");                              
     }
 };
 
@@ -37,8 +37,8 @@ function getUserName() {
 function askUserAge() {
     userAge = prompt("How old are you?");
     alert("Welcome " + userAge + " year old👋🙋‍♂️🙋‍♂️🙋‍♂️");
-    while (!isNaN(userName) || userName == null || userName == "" || userName == " ") {
-        userName = prompt("bruh enter a valid age");                              
+    while (!isNaN(userAge) || userAge == null || userAge == "" || userAge == " ") {
+        userAge = prompt("bruh enter a valid age");                              
     }    
 };
 
